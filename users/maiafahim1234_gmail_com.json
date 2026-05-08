@@ -34,7 +34,14 @@
               "id": 1778266455316,
               "name": "বাংলা",
               "description": "",
-              "chapters": [],
+              "chapters": [
+                {
+                  "id": 1778266488718,
+                  "name": "অপরাচিতা",
+                  "description": "",
+                  "lessons": []
+                }
+              ],
               "lessons": []
             }
           ]
