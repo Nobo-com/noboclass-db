@@ -28,7 +28,16 @@
           "name": "Elx",
           "description": "Dhd",
           "bannerImage": "https://i.ibb.co/67SpCr0f/Screenshot-20260506-163119.jpg",
-          "url": "https://github.com/Nobo-com/nc-course-elx-1650"
+          "url": "https://github.com/Nobo-com/nc-course-elx-1650",
+          "subjects": [
+            {
+              "id": 1778266455316,
+              "name": "বাংলা",
+              "description": "",
+              "chapters": [],
+              "lessons": []
+            }
+          ]
         }
       ],
       "coverImage": "https://i.ibb.co/5gc4Spk9/IMG-20260507-213044.jpg",
