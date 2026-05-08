@@ -11,7 +11,14 @@
       "name": "Class 11 HSC'27 Humanities",
       "category": "Education",
       "description": "সেরা দের সেরা কোর্স এটা। \nজয় বাংলা। ",
-      "followersCount": 0
+      "followersCount": 0,
+      "courses": [
+        {
+          "id": 1232973338,
+          "name": "Class 11 HSC'27 Humanities",
+          "url": "https://github.com/Nobo-com/nc-course-class-11-hsc-27-humanities-9164"
+        }
+      ]
     }
   ],
   "registeredAt": "2026-05-08T11:15:48.559Z",
