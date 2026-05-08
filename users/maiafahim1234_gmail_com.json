@@ -39,7 +39,17 @@
                   "id": 1778266488718,
                   "name": "অপরাচিতা",
                   "description": "",
-                  "lessons": []
+                  "lessons": [
+                    {
+                      "name": "অপরাচিতা",
+                      "description": "",
+                      "videoUrl": "https://archive.org/embed/20260502_20260502_1619",
+                      "pdfUrl": "https://archive.org/embed/20260502_20260502_1619",
+                      "type": "lecture",
+                      "id": 1778266538250,
+                      "createdAt": "2026-05-08T18:55:38.250Z"
+                    }
+                  ]
                 }
               ],
               "lessons": []
