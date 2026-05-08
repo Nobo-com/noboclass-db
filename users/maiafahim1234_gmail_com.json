@@ -5,7 +5,15 @@
   "password": "01774077ff",
   "otp": "594323",
   "role": "user",
-  "pages": [],
+  "pages": [
+    {
+      "id": "1778245532528",
+      "name": "Class 11 HSC'27 Humanities",
+      "category": "Education",
+      "description": "সেরা দের সেরা কোর্স এটা। \nজয় বাংলা। ",
+      "followersCount": 0
+    }
+  ],
   "registeredAt": "2026-05-08T11:15:48.559Z",
   "college": "বাংলাদেশ সরকার",
   "studentClass": "11 class",
