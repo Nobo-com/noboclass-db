@@ -27,7 +27,17 @@
                   "id": 1778289518129,
                   "name": "ঠর",
                   "description": "",
-                  "lessons": []
+                  "lessons": [
+                    {
+                      "name": "খর্য",
+                      "description": "",
+                      "videoUrl": "",
+                      "pdfUrl": "",
+                      "type": "lecture",
+                      "id": 1778289527817,
+                      "createdAt": "2026-05-09T01:18:47.817Z"
+                    }
+                  ]
                 }
               ],
               "lessons": []
