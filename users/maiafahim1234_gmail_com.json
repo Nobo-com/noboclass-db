@@ -69,12 +69,13 @@
                   "lessons": [
                     {
                       "name": "অপরাচিতা",
-                      "description": "",
+                      "description": "আর অধ্যায় গুলি এরকম শো হবে । ওটা ডেমো আপনি ওর থেকেও ভালো করে তৈরি করবে ও আরো সুন্দর ও আরো উন্নত",
                       "videoUrl": "https://archive.org/download/20260502_20260502_1619/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4_%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF.mp4",
                       "pdfUrl": "https://archive.org/embed/20260502_20260502_1619",
                       "type": "lecture",
+                      "teacherId": 1778333539608,
                       "id": 1778266538250,
-                      "updatedAt": "2026-05-09T06:48:24.354Z"
+                      "updatedAt": "2026-05-09T14:17:12.976Z"
                     }
                   ]
                 }
