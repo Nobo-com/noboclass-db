@@ -16,7 +16,16 @@
         {
           "id": 1232973338,
           "name": "Class 11 HSC'27 Humanities",
-          "url": "https://github.com/Nobo-com/nc-course-class-11-hsc-27-humanities-9164"
+          "url": "https://github.com/Nobo-com/nc-course-class-11-hsc-27-humanities-9164",
+          "subjects": [
+            {
+              "id": 1778289509554,
+              "name": "বাংলাদেশ",
+              "description": "",
+              "chapters": [],
+              "lessons": []
+            }
+          ]
         },
         {
           "id": 1233152826,
