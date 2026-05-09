@@ -31,11 +31,11 @@
                     {
                       "name": "খর্য",
                       "description": "",
-                      "videoUrl": "",
+                      "videoUrl": "https://archive.org/download/20260502_20260502_1619/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4_%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF.mp4",
                       "pdfUrl": "",
-                      "type": "lecture",
+                      "type": "solving",
                       "id": 1778289527817,
-                      "createdAt": "2026-05-09T01:18:47.817Z"
+                      "updatedAt": "2026-05-09T06:54:13.664Z"
                     }
                   ]
                 }
