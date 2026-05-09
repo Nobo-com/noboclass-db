@@ -90,7 +90,17 @@
       "mobile": "01777777777",
       "whatsapp": "https://wa.me/message/M6LWTSG4HXKTL1",
       "telegram": "@feehaff",
-      "mediaKit": "Fa"
+      "mediaKit": "Fa",
+      "teachers": [
+        {
+          "name": "Fahim miss",
+          "education": "It is",
+          "subjectsText": "বাংলা ",
+          "experience": "5 বছর",
+          "image": "https://i.ibb.co/YqcsVBg/IMG-20260508-151130.jpg",
+          "id": 1778333539608
+        }
+      ]
     }
   ],
   "registeredAt": "2026-05-08T11:15:48.559Z",
