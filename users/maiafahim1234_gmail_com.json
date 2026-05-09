@@ -58,7 +58,20 @@
                   "id": 1778344455590,
                   "name": "Family",
                   "description": "",
-                  "lessons": []
+                  "lessons": [
+                    {
+                      "name": "Faaa",
+                      "description": "",
+                      "videoUrl": "https://archive.org/download/20260502_20260502_1619/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%A4_%E0%A6%95%E0%A7%83%E0%A6%B7%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF.mp4",
+                      "pdfUrl": "",
+                      "type": "lecture",
+                      "teacherId": 1778334797689,
+                      "date": "2026-05-09",
+                      "time": "22:32",
+                      "id": 1778344522145,
+                      "createdAt": "2026-05-09T16:35:22.145Z"
+                    }
+                  ]
                 }
               ],
               "lessons": [],
