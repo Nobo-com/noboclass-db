@@ -43,7 +43,9 @@
                   ]
                 }
               ],
-              "lessons": []
+              "lessons": [],
+              "iconUrl": "",
+              "bgColor": "#805AD5"
             }
           ]
         },
