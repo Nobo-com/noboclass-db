@@ -162,5 +162,6 @@
   "enrolledCourseIds": [
     1232973338,
     1233182111
-  ]
+  ],
+  "teacherStatus": "pending"
 }
