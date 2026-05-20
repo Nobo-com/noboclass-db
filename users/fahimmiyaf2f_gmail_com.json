@@ -4,7 +4,8 @@
   "phone": "01881337191",
   "password": "01774077ff",
   "otp": "546910",
-  "role": "user",
+  "role": "admin",
   "pages": [],
-  "registeredAt": "2026-05-20T07:25:48.043Z"
+  "registeredAt": "2026-05-20T07:25:48.043Z",
+  "teacherStatus": "pending"
 }
